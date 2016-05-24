@@ -1,6 +1,5 @@
 # HelloFromChristopherCo
 ```
-Hello world repo!
 
 #include <stdio.h>
 #include <stdlib.h>
