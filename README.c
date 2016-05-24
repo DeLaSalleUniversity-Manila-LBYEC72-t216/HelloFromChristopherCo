@@ -1,5 +1,5 @@
 # HelloFromChristopherCo
-
+```
 Hello world repo!
 
 #include <stdio.h>
@@ -18,6 +18,6 @@ int main()
 	system("PAUSE");
 	return 0;
 }
-...
+```
 
-![]christopher.png
+![](christopher.png)
